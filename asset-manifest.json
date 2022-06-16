@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/getcashapp/static/css/main.964fdded.css",
+    "main.js": "/getcashapp/static/js/main.cd7a9815.js",
+    "index.html": "/getcashapp/index.html",
+    "main.964fdded.css.map": "/getcashapp/static/css/main.964fdded.css.map",
+    "main.cd7a9815.js.map": "/getcashapp/static/js/main.cd7a9815.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.cd7a9815.js"
+  ]
+}
